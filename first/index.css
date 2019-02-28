@@ -1,0 +1,32 @@
+body {
+    height: 100vh;
+    background: lightgray;
+    margin: 0;
+}
+.top-part {
+    width: 100%;
+    height: 20%;
+    background: #444;
+    
+
+}
+
+
+    
+
+
+.middle-part {
+    width: 60%;
+    background: white;
+    height: 70%;
+    margin: auto
+
+}
+
+.bottom-part {
+    height: 100%;
+    background : black;
+    width: 60%;
+    margin: auto
+
+}
